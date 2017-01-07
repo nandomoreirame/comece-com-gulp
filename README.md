@@ -1,2 +1,3 @@
-# Gulp-get-started
-Repositório do artigo: http://nandomoreira.me/comece-com-gulpjs/
+# Comece com Gulp
+
+> Repositório do artigo: http://nandomoreira.me/comece-com-gulpjs/
