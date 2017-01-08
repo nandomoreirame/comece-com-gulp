@@ -1,0 +1,22 @@
+{
+  "name": "comece-com-gulp",
+  "version": "1.0.0",
+  "description": "> Repositório do artigo: http://nandomoreira.me/comece-com-gulpjs/",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandomoreirame/comece-com-gulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nandomoreirame/comece-com-gulp/issues"
+  },
+  "homepage": "https://github.com/nandomoreirame/comece-com-gulp#readme"
+}
